@@ -1,0 +1,1 @@
+function define_markers(e){return Object.fromEntries(Object.entries(e).map(([e,t])=>[e,L.AwesomeMarkers.icon(t)]))}
