@@ -6,7 +6,8 @@ header_menu: true
 ---
 The Oxford Node of the Digital Earths Global Hackathon will run from **Monday morning, May 12, to Friday lunchtime, May 16, 2025**.
 
-Lunch is self organized. Take this opportunity to get some fresh air and something to bite. 
+Catered lunch will be served each day in Oxford, at our venue.
+
 
 ---
 
@@ -15,14 +16,13 @@ Lunch is self organized. Take this opportunity to get some fresh air and somethi
 
 | Time | Event | Room |
 |------|-------|------|
-| 10:30 am | *Registration*|      |
+| 12:00 pm | *Registration*|      |
 |      | Coffee & Meet   | |
-| 11:30 am | *Introduction to goals and resources*|     |
+| 12.30 pm | *Lunch* | |
+| 2 pm | *Introduction to goals and resources*|     |
 |      | - Goals of the UK node  |         |
 |      | - Simulations available at the UK node  |         |
 |      | - Logistics             |         |
-| 12.30 pm | *Lunch (individual choice)* | |
-| 2 pm | Continued Introduction       |  |
 |      | - Group distribution    |         |
 | 5.30 pm | *Ice Breaker*        |  |
 | 6.00 pm | *Keynote by Tim Palmer*        |  |
@@ -36,7 +36,7 @@ Lunch is self organized. Take this opportunity to get some fresh air and somethi
 |     9 am | Start hacking     |   |
 | 10.30 am | *Coffee break*    |  |
 |    11 am | Hacking           |         |
-| 12.30 pm | *Lunch (individual choice)* | |
+| 12.30 pm | *Lunch* | |
 |  1.30 pm |  Hacking          |         |
 |  3.30 pm | *Coffee break*    | |
 |  4.15 pm | OPTIONAL Remote Keynote talk by [Caroline Muller (ISTA, Vienna)](https://ist.ac.at/en/research/muller-group/) |  |
@@ -50,7 +50,7 @@ Lunch is self organized. Take this opportunity to get some fresh air and somethi
 |     9 am | Start hacking     |   |
 | 10.30 am | *Coffee break*    |  |
 |    11 am | Hacking      |         |
-| 12.30 pm | *Lunch (individual choice)* | |
+| 12.30 pm | *Lunch* | |
 |  1.30 pm | Hacking           |         |
 |  3.30 pm | *Coffee break*    |  |
 |    4  pm | Hacking      |         |
@@ -63,7 +63,7 @@ Lunch is self organized. Take this opportunity to get some fresh air and somethi
 |     9 am | Start hacking     |   |
 | 10.30 am | *Coffee break*    |  |
 |    11 am | Hacking      |         |
-| 12.30 pm | *Lunch (individual choice)* | |
+| 12.30 pm | *Lunch* | |
 |  1.30 pm |  Hacking          |         |
 |  3.30 pm | *Coffee break*    |  |
 |    4  pm | Hacking           |         |
