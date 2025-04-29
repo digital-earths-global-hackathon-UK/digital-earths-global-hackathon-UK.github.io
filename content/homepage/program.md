@@ -24,6 +24,9 @@ Catered lunch will be served each day in Oxford, at our venue.
 |      | - Simulations available at the UK node  |         |
 |      | - Logistics             |         |
 |      | - Group distribution    |         |
+|      | - Early Hacking    |         |
+| 4:30     | - Early Show and Tell    |         |
+| 5:00     | - First Synching with Other Nodes |         |
 | 5.30 pm | *Ice Breaker*        |  |
 | 6.00 pm | *Keynote by Tim Palmer*        |  |
 | | *End around 7 pm* |
