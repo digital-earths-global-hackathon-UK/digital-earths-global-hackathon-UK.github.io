@@ -25,8 +25,8 @@ Catered lunch will be served each day in Oxford, at our venue.
 |      | - Logistics             |         |
 |      | - Group distribution    |         |
 |      | - Early Hacking    |         |
-| 4:30     | - Early Show and Tell    |         |
-| 5:00     | - First Synching with Other Nodes |         |
+| 4:30     | Early Show and Tell    |         |
+| 5:00     | First Synching with Other Nodes |         |
 | 5.30 pm | *Ice Breaker*        |  |
 | 6.00 pm | *Keynote by Tim Palmer*        |  |
 | | *End around 7 pm* |
@@ -42,8 +42,10 @@ Catered lunch will be served each day in Oxford, at our venue.
 | 12.30 pm | *Lunch* | |
 |  1.30 pm |  Hacking          |         |
 |  3.30 pm | *Coffee break*    | |
+|  4:00    | Show and Tell    |         |
 |  4.15 pm | OPTIONAL Remote Keynote talk by [Caroline Muller (ISTA, Vienna)](https://ist.ac.at/en/research/muller-group/) |  |
 |          |  *Data-driven investigation of deep convective storms* |
+| 5:00     | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
 
 **Wednesday**, May 14
@@ -56,7 +58,8 @@ Catered lunch will be served each day in Oxford, at our venue.
 | 12.30 pm | *Lunch* | |
 |  1.30 pm | Hacking           |         |
 |  3.30 pm | *Coffee break*    |  |
-|    4  pm | Hacking      |         |
+|  4:00    | Show and Tell    |         |
+|  5:00    | Synching with Other Nodes |         |
 |  5.30 pm | Science teams discussion - Improving collaboration across nodes | |
 
 **Thursday**, May 15
@@ -69,7 +72,8 @@ Catered lunch will be served each day in Oxford, at our venue.
 | 12.30 pm | *Lunch* | |
 |  1.30 pm |  Hacking          |         |
 |  3.30 pm | *Coffee break*    |  |
-|    4  pm | Hacking           |         |
+|  4:00    | Show and Tell    |         |
+|  5:00    | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
 
 **Friday**, May 16
