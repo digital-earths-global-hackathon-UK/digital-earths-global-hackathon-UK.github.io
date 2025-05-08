@@ -19,7 +19,7 @@ Catered lunch will be served each day in Oxford, at our venue.
 | 12:00 pm | *Registration*|      |
 |      | Coffee & Meet   | |
 | 12.30 pm | *Lunch* | |
-| 2 pm | *Introduction to goals and resources*|     |
+| 2 pm | *Introduction to goals and resources by Pier Luigi Vidale*|     |
 |      | - Goals of the UK node  |         |
 |      | - Simulations available at the UK node  |         |
 |      | - Logistics             |         |
@@ -47,6 +47,7 @@ Catered lunch will be served each day in Oxford, at our venue.
 |          |  *Data-driven investigation of deep convective storms* |
 | 5:00 pm  | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
+|  Evening | *Putting from Cherwell Boathouse to Victoria Arms*    |         |
 
 **Wednesday**, May 14
 
@@ -75,6 +76,7 @@ Catered lunch will be served each day in Oxford, at our venue.
 |  4:00 pm | Show and Tell    |         |
 |  5:00 pm | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
+|  Evening | *Walk to The Medley (pizzas & drinks at the river Thames)*    |         |
 
 **Friday**, May 16
 
@@ -89,4 +91,4 @@ Catered lunch will be served each day in Oxford, at our venue.
 
 ---
 
-*updated Apr, 29 2025*
+*updated May, 8 2025*
