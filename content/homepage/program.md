@@ -62,6 +62,7 @@ Catered lunch will be served each day in Oxford, at our venue.
 |  4:00 pm | Show and Tell    |         |
 |  5:00 pm | Synching with Other Nodes |         |
 |  5.30 pm | Science teams discussion - Improving collaboration across nodes | |
+|  Evening | *Walk to The Medley (pizzas & drinks at the river Thames)*    |         |
 
 **Thursday**, May 15
 
@@ -76,7 +77,6 @@ Catered lunch will be served each day in Oxford, at our venue.
 |  4:00 pm | Show and Tell    |         |
 |  5:00 pm | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
-|  Evening | *Walk to The Medley (pizzas & drinks at the river Thames)*    |         |
 
 **Friday**, May 16
 
@@ -91,4 +91,4 @@ Catered lunch will be served each day in Oxford, at our venue.
 
 ---
 
-*updated May, 8 2025*
+*updated May, 9 2025*
