@@ -47,7 +47,7 @@ Catered lunch will be served each day in Oxford, at our venue.
 |          |  *Data-driven investigation of deep convective storms* |
 | 5:00 pm  | Synching with Other Nodes |         |
 | | *Open end/ further hacking* |
-|  Evening | *Putting from Cherwell Boathouse to Victoria Arms*    |         |
+|  Evening | *Punting from Cherwell Boathouse to Victoria Arms*    |         |
 
 **Wednesday**, May 14
 
